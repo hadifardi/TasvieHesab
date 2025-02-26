@@ -1,5 +1,6 @@
 {
-  "msg" : "hello world",
-  "id" : 123,
-  "payment" : true
+  "allUsersShouldBuyPremium" : true,
+  "price" : 590000,
+  "messageID" : "msg_01",
+  "message" "پیغام تست",
 }
