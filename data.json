@@ -1,6 +1,6 @@
 {
   "allUsersShouldBuyPremium" : true,
   "price" : 590000,
-  "messageID" : "msg_01",
+  "messageId" : "msg_01",
   "message" "پیغام تست",
 }
