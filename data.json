@@ -1,6 +1,6 @@
 {
-  "allUsersShouldBuyPremium" : true,
-  "price" : 590000,
-  "messageId" : "msg_01",
-  "message" : "Message",
+  "allUsersShouldBuyPremium": true,
+  "price": 590000,
+  "messageId": "msg_01",
+  "message": "Message"
 }
