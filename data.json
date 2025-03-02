@@ -1,6 +1,6 @@
 {
-  "allUsersShouldBuyPremium": true,
-  "price": 590000,
-  "messageId": "msg_01",
-  "message": "پیغام تست"
+  "allUsersShouldBuySubscription": true,
+  "subscriptionMessage": "برای ادامه استفاده از برنامه باید اشتراک تهیه کنید.",
+  "adsMessageId": "msg_01",
+  "adsMessage": "پیغام تست"
 }
